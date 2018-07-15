@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<document>
+  <record>
+    <numbers>
+      <b>2</b>
+      <c>3</c>
+      <d>3</d>
+    </numbers>
+    <a>1</a>
+  </record>
+  <record>
+    <numbers>
+      <b>5</b>
+      <c>6</c>
+      <d>d</d>
+    </numbers>
+    <a>4</a>
+  </record>
+  <record>
+    <numbers>
+      <b>9</b>
+      <c>0</c>
+      <d>32</d>
+    </numbers>
+    <a>8</a>
+  </record>
+</document>
